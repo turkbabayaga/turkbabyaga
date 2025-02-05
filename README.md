@@ -18,14 +18,7 @@
 🔹 **Langages** : Java, PHP, JavaScript, Python  
 🔹 **Frameworks** : Laravel, React, Spring Boot  
 🔹 **Base de données** : MySQL, PostgreSQL  
-🔹 **Outils** : Git, Docker, VS Code, IntelliJ, Laragon  
-
----
-
-## 📊 GitHub Stats  
-
-![Dervis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DervisSahin&show_icons=true&theme=radical)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=DervisSahin&layout=compact&theme=radical)  
+🔹 **Outils** : Git, Docker, VS Code, IntelliJ, Laragon
 
 ---
 
