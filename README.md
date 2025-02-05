@@ -1,7 +1,6 @@
 # 👋 Hello, moi c'est **Dervis Sahin** !  
 
-🚀 **Développeur Full-Stack** | 🖥️ **Passionné de Tech & Cybersécurité** | 🎯 **Toujours en quête d'apprentissage**  
-
+🚀 **Développeur Full-Stack** | 🖥️ **Passionné de Tech & Cybersécurité** | 🎯 **Toujours en quête d'apprentissage**  | Recherche alternance en full stack sur Paris (SUPINFO)
 ---
 
 ## 🌍 À propos de moi  
